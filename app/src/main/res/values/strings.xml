@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp1</string>
+    <string name="question_text">¿Estudia en el CUVALLES?</string>
+    <string name="true_button">SI</string>
+    <string name="false_button">NO</string>
+    <string name="correct_answer">ESO ES TODA </string>
+    <string name="incorrect_answer">PORQUE NO ESTUDIA EN EL CUVALLES </string>
+</resources>
