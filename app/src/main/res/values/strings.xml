@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">QuizApp1</string>
-    <string name="question_text">¿Estudia en el CUVALLES?</string>
+
+    <string name="question_text1">¿Estudia en la UDG?</string>
+    <string name="question_text2">¿Estudia en el CUVALLES?</string>
+    <string name="question_text3">¿Estudia la carrera de Tecnologia de la Informacion?</string>
+
     <string name="true_button">SI</string>
     <string name="false_button">NO</string>
-    <string name="correct_answer">ESO ES TODA </string>
-    <string name="incorrect_answer">PORQUE NO ESTUDIA EN EL CUVALLES </string>
+    <string name="next_button">Siguiente</string>
+
+    <string name="correct_answer">ESO ES TODO</string>
+    <string name="incorrect_answer">PORQUE NO ESTUDIA EN EL CUVALLES</string>
 </resources>
